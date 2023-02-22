@@ -1,5 +1,7 @@
 # Implementação: Aplicações da Programação Funcional
 
+*código feito em python*
+
 Suponha que temos uma lista de produtos.
 Para calcular o preço médio desses produtos, podemos utilizar a seguinte sequência de operações com map, filter e reduce:
 
